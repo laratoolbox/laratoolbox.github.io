@@ -14,3 +14,11 @@ A skeleton repository for Laravel Toolbox.
 ## Use this template
 
 Use the [TEMPLATE](https://github.com/laratoolbox/package-skeleton/generate) to generate it.
+
+## Configuration
+
+Switch to the terminal and answer the questions with the command below.
+
+```
+php configure.php
+```
